@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on 王玄</title>
+    <link>/zh/authors/admin/</link>
+    <description>Recent content in admin on 王玄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    
+	<atom:link href="/zh/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/zh/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/zh/author/admin/</guid>
+      <description>自我介绍总是一件让我感到困难的事情。有三种事情能从内心深处带给我快乐：创造、探索，最重要的是，在一切事物中体验到美。 这里还没有建设完成。有兴</description>
+    </item>
+    
+  </channel>
+</rss>
