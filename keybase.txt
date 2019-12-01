@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/wangxuan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.wangxuan.name
+  * I am wangxuan (https://keybase.io/wangxuan) on keybase.
+  * I have a public key with fingerprint 541F DA23 2A5D 4514 11C1  3994 D0ED A856 D38D D8C9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cc2857f90e415761e155f2b809bf6e6b6ac2b743dd3c4da642d4f9774fdf24d80a",
+      "fingerprint": "541fda232a5d451411c13994d0eda856d38dd8c9",
+      "host": "keybase.io",
+      "key_id": "d0eda856d38dd8c9",
+      "kid": "0101cc2857f90e415761e155f2b809bf6e6b6ac2b743dd3c4da642d4f9774fdf24d80a",
+      "uid": "7bd608cd0c8fc9fd983c109db14faa19",
+      "username": "wangxuan"
+    },
+    "service": {
+      "hostname": "www.wangxuan.name",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1575160968,
+  "expire_in": 157680000,
+  "prev": "2b2530774d284356981102cfa66120f7667d73f83bcc1600a075638b99dc1f82",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXkhEdqBodJappmQvJcascL8/tinFxFJkc/ArmWy99557lytw9+vu
+AuEaYSpqDCvbAJKAmWIKhUEBbmAyZDOSSVIM5cg4wEhQ4YgwMEhQd3fiXz87f86c
+5zzv8z7PO6836jGNNmTk5q0vrO9QCSHfj3GaPcOR3gKIs4J8yFgAZQnBS8gGglMx
+Z0kAMkIwAiM8j9IEJTKwgCMERSICQhAiytEww4mkQHIky6MchWMAYDwOWBJHAS4y
+FIWLQERxQMMsZIBESbYIDptDkhVVlsAREbAohrIEwAkERxAewRgGB7AAWJogAUYD
+QPOMWphpdQYqVHMc6xQSJauKqQ9z0N5/8P9n366gHMUBEqZ5APO0yDMiYGiMR2AG
+cAgusiwS6OtyCg6ZzRFUdi4rW/JcrAx5DJCKuiVeCAw2kGSRkZubuMhKDGIGyOaw
+Klbemq1+ZyqKzWkMlCv5tiBf4Mz/Kpk5SQbqMNUKt+BwSlYZMiIqk1ekgLSalEBI
+mCFpAyTk2SSHYJbkIEzSsHoCfQS3Kolye1ACg9W4AKVxjCAZGkFglBdZkkRQWKRI
+kgIUJtIYx/OqIszCFEFiNMcwgEdEGoUC4eyyFTJiqk/Womo6JYvMKi6HAHm0R0Ox
+JZoQreZZnX7J61unW9J2dI601MdWLS5gWGhg+zTaiOhFZCY0WuO9tqFul7RS93Hq
+6R8LHbqpM8XX10J645OHj978o3qqpmFOOHIVKZrcNNraYMltM/W2bO/VfJK3LyLa
+P9DS6SsrfzfdFNHkPbvtg3rvwSzxLi8vG1g22l2ju+N5mHYj+rf9uvQPWwd6Z830
+lR3OqXFd6aGdtadjSsi1rw7L7eF1VTHnuF+SonaPODYcHLDFFig3Sv7OWZFUaehJ
+SP7O1PoI37fKN9E9FbFQ9PXcgfnmvLN27e17Fzk3Ga/d5O8/ufQSM2FJcXVlrsZM
+l6jS9Z7G2urL2/b3laIGdsJLlizk9KczsPHE8heXt1/49e68/23G/VKbfehaU9z5
+zb/3RzYTycezZtvunHxLH/74E1/B5VkdP2QPTuqfPvU+d79Pf2x3pvLG8GcPhEMo
+UTF55c2JF26/d6Yrvr4wNsY+kzjd2RZStmtW/6giZ2hz2TftmlcKnx/cvnT2Mj3H
+D+6dvtXhernuXt18auOFsIaa60kLCWEHnrEWV1Kj9tAvfSVrfnZfnal9Tn6tnAVD
+K4Cf9pUlfPtTclVXxnw/kTKWX03/Vev786OVDypNxXtTH9YM+lOOuFMOh6ePjXtg
+2k9sCc+ozCiaqug7tiVtVU1zh2u8eXX9xdrqQv3k8YHPT5D3t4aNJCV096xRYuNP
+TcxGfnq+j1gXWkU29USueypu5zn7ejRuY6Mj6h8=
+=5hUq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wangxuan
+
+==================================================================
